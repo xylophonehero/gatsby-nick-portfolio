@@ -1,4 +1,14 @@
 {
   "name": "Scooli",
-  "info": "Mooo"
+  "info": "Mooo",
+  "services another": [
+    {
+      "name": "Scooli",
+      "info": "Moo"
+    },
+    {
+      "name": "Another service",
+      "info": "Oopsalon"
+    }
+  ]
 }
